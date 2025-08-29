@@ -1,3 +1,9 @@
+# Julianna Vishnyakova's First CS193 Homework
+## Things I Love About CS193:
+- The Instructors!
+- The fact that it will prepare me for (already difficult) CS courses later in college
+- That we will cover topics such as interviews, tracks & degree plans from people who have personal experience and input on all of those things!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
